@@ -36,10 +36,11 @@ p{
 
 .card{
   width: calc(100% / 3);
-  padding: 30px;
+  padding: 20px;
 }
 
 .float-card{
+  width: 100%;
   color: white;
   background-color: black;
 }
@@ -49,3 +50,11 @@ p{
   height: 100px;
 }
 
+.detail{
+  text-align: left;
+  padding-left: 10px;
+}
+
+.blue-print{
+  color: #3eb2d3;
+}
