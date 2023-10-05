@@ -27,14 +27,25 @@ main{
 h1{
   color: #ba2c5e;
   margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+p{
+  margin-bottom: 50px;
+}
+
+.card{
+  width: calc(100% / 3);
+  padding: 30px;
 }
 
 .float-card{
+  color: white;
   background-color: black;
-  width: calc(100% / 3);
 }
 
 .float-card img{
   width: 100px;
   height: 100px;
 }
+
