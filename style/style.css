@@ -13,3 +13,28 @@
 .float-left{
   float: left;
 }
+
+body{
+  font-family: 'Fredoka', sans-serif;
+}
+
+main{
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1{
+  color: #ba2c5e;
+  margin-bottom: 50px;
+}
+
+.float-card{
+  background-color: black;
+  width: calc(100% / 3);
+}
+
+.float-card img{
+  width: 100px;
+  height: 100px;
+}
